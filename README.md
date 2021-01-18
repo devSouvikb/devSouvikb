@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Souvik
 🌱 I’m currently learning: Frontend Webdev and UI/UX Design
-😄 Pronouns: He/His
+<br />😄 Pronouns: He/His
 <!--
 **devSouvikb/devSouvikb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
